@@ -1,4 +1,4 @@
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%" align="center"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%" align="right"/><br> 
 
 Tools and Environment<br>
    ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
