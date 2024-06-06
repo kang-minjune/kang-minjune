@@ -1,11 +1,11 @@
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox" align="right"/>
-
 Tools and Environment
 
    ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
    ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
    ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox" align="right"/>
 
 Available Languages 
 
