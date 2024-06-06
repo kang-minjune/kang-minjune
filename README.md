@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%" align="right"/>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
@@ -14,12 +13,14 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-<br><br>
+<br>
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **Full Stack**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)]([https://instagram.com/kanna6501](https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr)) <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:bkokmj0327@gmail.com)
 
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox"/>
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
