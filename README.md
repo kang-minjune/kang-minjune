@@ -7,7 +7,7 @@ Tools and Environment
 
 Available Languages
 
-GitHub Status
+<span>GitHub Status</span>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox" />
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
