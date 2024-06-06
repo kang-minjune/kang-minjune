@@ -1,5 +1,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox" align="right"/>
-
 Tools and Environment
 
    ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
