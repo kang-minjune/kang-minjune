@@ -5,11 +5,9 @@ Tools and Environment
    ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
    ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
-GitHub Statu
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox" align="right"/>
 
 Available Languages 
-
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" align="left"/>
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" align="left"/>
