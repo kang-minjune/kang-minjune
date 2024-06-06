@@ -1,6 +1,5 @@
-<p align="center">  
+
    ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-</p>
 
 
 <!--
