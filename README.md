@@ -1,6 +1,6 @@
-<p align="center" width="120" height="20">  
+<p align="center">  
    <a href="https://github.com/harish-sethuraman/readme-components">
-        <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+        <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" style="width:120;">  
    </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
          <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
