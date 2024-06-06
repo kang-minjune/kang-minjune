@@ -1,5 +1,5 @@
 <img align="center" src="https://raw.githubusercontent.com/kang-minjune/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-Tools and Environment
+Tools and Environment<br>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
