@@ -6,6 +6,8 @@
          <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
    </a>
 </p>
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
