@@ -1,4 +1,4 @@
-<p align="right" text="left">GitHub Status</p>
+<p align="right" font="left">GitHub Status</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox" align="right"/>
 Tools and Environment
 
