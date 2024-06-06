@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%" align="right"/>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
