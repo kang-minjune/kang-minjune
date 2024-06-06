@@ -1,8 +1,10 @@
-<hr>
+
    ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
    ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
    ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+
+   <hr>
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
