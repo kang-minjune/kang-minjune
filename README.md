@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg) <br>
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
   
 <b>Admin</b><br>
