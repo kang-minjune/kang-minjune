@@ -5,7 +5,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&count_private=true&theme=gruvbox" align="right"/>
 
-Admin<br>
+<b>Admin</b><br>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)<br>
 
