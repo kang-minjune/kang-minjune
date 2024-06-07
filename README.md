@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
 
-<p align="right">
+<p align="right" style="text-align:left">
   - 🔭 I’m currently working on ...<br>
   - 🌱 I’m currently learning ...<br>
   - 👯 I’m looking to collaborate on ...<br>
