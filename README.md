@@ -16,7 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)<br>
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)<br>
 
@@ -27,10 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://linktr.ee/kangminjun)
-![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white) <br>
-![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)<br>
-![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)<br>
+
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
