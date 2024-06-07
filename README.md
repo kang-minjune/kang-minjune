@@ -3,10 +3,6 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
 
-![Overview](https://github.com/kang-minjune/kang-minjune/blob/master/generated/overview.svg) <br>
-![Languages](https://github.com/kang-minjune/kang-minjune/blob/master/generated/languages.svg)
-
-  
 <b>Admin</b><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)<br>
