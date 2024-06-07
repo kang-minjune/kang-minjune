@@ -3,8 +3,9 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
 
-![](https://github.com/kang-minjune/blob/master/generated/overview.svg)<br>
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+![Overview](https://github.com/kang-minjune/kang-minjune/blob/master/generated/overview.svg) <br>
+![Languages](https://github.com/kang-minjune/kang-minjune/blob/master/generated/languages.svg)
+
   
 <b>Admin</b><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
