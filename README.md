@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
 </div>
 
+<br>
+
 <p>
   - 🔭 I’m currently working on ...<br>
   - 🌱 I’m currently learning ...<br>
