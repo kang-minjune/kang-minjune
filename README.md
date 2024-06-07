@@ -26,9 +26,9 @@
 <b>Reference</b><br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
+![Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=terminal)
 <br>
 <b>Development Environment</b><br>
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
 
@@ -42,6 +42,9 @@
   - 😄 Pronouns: ...<br>
   - ⚡ Fun fact: ...<br>
 </p>
+
+
+
 
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
