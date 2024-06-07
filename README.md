@@ -27,7 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
