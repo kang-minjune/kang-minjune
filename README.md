@@ -8,7 +8,7 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<span><strong>Technologies & Tools & Reference</strong> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></span>
+<span><strong>Technologies & Tools & Reference</strong> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></span>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
