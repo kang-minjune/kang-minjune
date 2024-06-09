@@ -6,9 +6,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kang-minjune&show_icons=true&count_private=true&theme=gruvbox" align="left"/>
 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
 
-<br><br><br><br><br><br><br><br>
-
 <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="30" align="right" style="vertical-align:down; margin:4px"/>
+
+<br><br><br><br><br><br><br><br>
 
 <b>Admin</b><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
