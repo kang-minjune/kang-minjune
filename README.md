@@ -10,7 +10,8 @@
 
 <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="30" align="right" style="vertical-align:down; margin:4px"/>
 
-<span color="blue"><strong>Technologies & Tools & Reference</strong></span>
+<span style="color: blue;"><strong>Technologies & Tools & Reference</strong></span>
+
 <br><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
