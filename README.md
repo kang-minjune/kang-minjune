@@ -11,6 +11,7 @@
 <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="30" align="right" style="vertical-align:down; margin:4px"/>
 
 Technologies & Tools
+<br><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
