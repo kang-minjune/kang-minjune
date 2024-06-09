@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
 
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/kang-minjune?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555" />
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?kang-minjune=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555" />
   
 <b>Admin</b><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
