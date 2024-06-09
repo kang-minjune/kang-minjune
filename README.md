@@ -9,14 +9,14 @@
 
 <b>Admin</b><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)<br>
+
+<b>Debug Tool</b><br>
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
 <br>
 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
 <br>
-
-<b>Debug Tool</b><br>
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
 <b>Language</b><br>
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
