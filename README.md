@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!" />  
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
-
+<br>
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kang-minjune&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"  align="right" >
 <br>
 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
