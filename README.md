@@ -3,6 +3,11 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
 
+
+<br>
+<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
+<br>
+
 <br>
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kang-minjune&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"  align="right" >
 <br>
@@ -13,10 +18,6 @@
 
 <b>Debug Tool</b><br>
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-
-<br>
-<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
-<br>
 
 <b>Language</b><br>
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
