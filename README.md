@@ -12,7 +12,6 @@
 
 <span style="color: blue;"><strong>Technologies & Tools & Reference</strong></span>
 
-<br><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
