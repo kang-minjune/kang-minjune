@@ -8,7 +8,7 @@
 
 <br><br><br><br><br><br><br><br>
 
-<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="40" height="20" align="right" style="vertical-align:down; margin:4px"/>
+<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="30" align="right" style="vertical-align:down; margin:4px"/>
 
 <b>Admin</b><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
