@@ -3,6 +3,9 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
 
+<summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+  
 <p align="center">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kang-minjune&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
