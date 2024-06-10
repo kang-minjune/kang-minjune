@@ -1,10 +1,7 @@
 <h1 align="center">Hello. I`m MinJun.</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!" />  
 
-## Listen to my favorite song on Apple Music
-[![Apple Music](https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2018-09-28&kind=song&bubble=apple_music)](https://music.apple.com/kr/album/rainy-days/1476435914?i=1476435915)
-
-<iframe src="https://www.youtube.com/embed/K3or5y7Zv94?si=oPgNsGhn0T_uM_bp" width="300" height="150" align="right"></iframe>
+[![YouTube](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/embed/K3or5y7Zv94?si=oPgNsGhn0T_uM_bp)
 
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
