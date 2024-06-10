@@ -16,6 +16,12 @@
 -->
 
 <br>
+
+&nbsp;<div align="right">
+  [![Apple Music](https://novatorem.vercel.app/api/applemusic?background_color=0d1117&border_color=ffffff)](https://music.apple.com/kr/album/rainy-days-single/1476435914)
+</div>
+
+
 <span><strong>Technologies & Tools & Reference</strong> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></span>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
