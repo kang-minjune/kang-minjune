@@ -10,6 +10,10 @@
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=kang-minjune&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 <!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=kang-minjune&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
@@ -43,9 +47,6 @@
 <a href="mailto:bkokmj0327@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" align="center"/></a>
 <a href="https://linktr.ee/kangminjun"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
