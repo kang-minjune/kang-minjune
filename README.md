@@ -6,7 +6,7 @@
   <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:200px;" align="right" />
 </a>
 
-<p align="right" style="color:blue;"><b>Favorite song. Listen!</b></p>
+<p align="right" style="fontSize:24px;"><b>Favorite song. Listen!</b></p>
 <br><br><br><br>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
