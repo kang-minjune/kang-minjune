@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kang-minjune&show_icons=true&count_private=true&theme=gruvbox" align="left"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=kang-minjune&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
 
 <br><br><br><br><br><br><br><br><br><br>
