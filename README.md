@@ -1,7 +1,7 @@
 <h1 align="center">Hello. I`m MinJun.</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!" />  
 
-[![YouTube](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/embed/K3or5y7Zv94?si=oPgNsGhn0T_uM_bp)
+[![YouTube](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/K3or5y7Zv94?si=vDp9JHfKDrYkhHNK)
 
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
