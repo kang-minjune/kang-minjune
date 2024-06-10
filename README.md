@@ -18,7 +18,7 @@
 <br>
 
 &nbsp;<div align="right">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://music.apple.com/kr/album/rainy-days-single/1476435914)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&width=120)](https://music.apple.com/kr/album/rainy-days-single/1476435914)
 </div>
 
 
