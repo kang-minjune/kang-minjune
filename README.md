@@ -3,8 +3,19 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 <hr>
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kang-minjune&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=kang-minjune&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
+
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=kang-minjune&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
+-->
 
 <br>
 <span><strong>Technologies & Tools & Reference</strong> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></span>
