@@ -3,7 +3,6 @@
 
 ## Listen to my favorite song
 
-## Listen to my favorite song
 [![YouTube](http://img.youtube.com/vi/K3or5y7Zv94/0.jpg)](http://www.youtube.com/watch?v=K3or5y7Zv94)
 
 
