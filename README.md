@@ -17,10 +17,6 @@
 
 <br>
 
-&nbsp;<div align="right">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&width=100)](https://open.spotify.com/track/0ejF51HDSYwIX7vnehlOtD?si=aa5a279e2fca40a4)
-</div>
-
 
 <span><strong>Technologies & Tools & Reference</strong> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></span>
 
