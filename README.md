@@ -38,8 +38,9 @@
 
 <br><br><br>
 
-<a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:bkokmj0327@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" align="center"/></a>
+<a href="mailto:bkokmj0327@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" align="center"/></a>
+<a href="[https://linkedin.com/in/stan-daniels-roth-278478127](https://linktr.ee/kangminjun)"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
 
 
 <!--
