@@ -18,6 +18,8 @@
 
 <br>
 
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
+
 
 <span>
     <strong>Technologies & Tools & Reference</strong> 
@@ -52,8 +54,6 @@
 <a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" align="center"/></a>
 <a href="mailto:bkokmj0327@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" align="center"/></a>
 <a href="https://linktr.ee/kangminjun"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
-
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
 
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
