@@ -1,6 +1,8 @@
 <h1 align="center">Hello. I`m MinJun.</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!" />  
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
+
 <a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
   <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:200px;" align="right" />
 </a>
