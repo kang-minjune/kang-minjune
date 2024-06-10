@@ -41,6 +41,7 @@
 <br>
 <span><strong>Distribute</strong></span>
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<img src="https://www.netlify.com/img/press/logos/logomark.svg" alt="netlify" style="vertical-align:top; margin:4px">
 <br>
 
 <a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" align="center"/></a>
