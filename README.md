@@ -7,7 +7,7 @@
 </a>
 
 <p align="right"><b>Favorite song. Listen!</b></p>
-<br><br><br><br>
+<br><br><br>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 
