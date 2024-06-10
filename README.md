@@ -1,9 +1,9 @@
 <h1 align="center">Hello. I`m MinJun.</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!" />  
 
-[![Spotify](https://spotify-readme.kang-minjune.vercel.app/api/spotify)](https://open.spotify.com/track/0ejF51HDSYwIX7vnehlOtD?si=a424493990314b00) 
-
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /></div>  
+
+<iframe src="https://www.youtube.com/embed/K3or5y7Zv94?si=oPgNsGhn0T_uM_bp" width="300" height="150" align="right"></iframe>
 
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
