@@ -1,7 +1,8 @@
 <h1 align="center">Hello. I`m MinJun.</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!" />  
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /></div>  
+## Listen to my favorite song on Apple Music
+[![Apple Music](https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2018-09-28&kind=song&bubble=apple_music)](https://music.apple.com/kr/album/rainy-days/1476435914?i=1476435915)
 
 <iframe src="https://www.youtube.com/embed/K3or5y7Zv94?si=oPgNsGhn0T_uM_bp" width="300" height="150" align="right"></iframe>
 
