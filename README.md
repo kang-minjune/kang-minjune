@@ -4,7 +4,7 @@
 Listen to my favorite song
 
 <a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
-  <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:150px;" align="right" />
+  <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:200px;" align="right" />
 </a>
 
 <br><br><br><br>
