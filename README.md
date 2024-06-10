@@ -1,7 +1,7 @@
 <h1 align="center">Hello. I`m MinJun.</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!" />  
 
-## Listen to my favorite song
+Listen to my favorite song
 
 <a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" align="right" >
   <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height: auto;" />
