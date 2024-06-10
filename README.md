@@ -1,7 +1,7 @@
 <h1 align="center">Hello. I`m MinJun.</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!" />  
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/track/0ejF51HDSYwIX7vnehlOtD?si=a424493990314b00) 
+[![Spotify](https://spotify-readme.kang-minjune.vercel.app/api/spotify)](https://open.spotify.com/track/0ejF51HDSYwIX7vnehlOtD?si=a424493990314b00) 
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /></div>  
 
