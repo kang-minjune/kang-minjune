@@ -4,9 +4,10 @@
 Listen to my favorite song
 
 <a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
-  <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:150px; margin-bottom:25px" align="right" />
+  <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:150px;" align="right" />
 </a>
 
+<br><br><br>
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
