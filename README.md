@@ -19,10 +19,8 @@
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=kang-minjune&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-<!--
-![Stats](https://github-readme-stats.vercel.app/api?username=kang-minjune&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&hide=html,&hide_border=true&title_color=5391FE&text_color=555" align="right" />
--->
+<br/>
+<img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
 
 <br>
 
@@ -73,7 +71,6 @@
 
 <br/><br/>
 
-<img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
 <!--
 **kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
