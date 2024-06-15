@@ -7,7 +7,7 @@
 </a>
 
 <p align="right"><b>Favorite song. Listen!</b></p>
-<br><br><br>
+<br/><br/><br/>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
 
@@ -20,6 +20,7 @@
 </p>
 
 <br/>
+
 <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
 
 <br>
@@ -56,7 +57,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-<br>
+<br/>
 
 <span>
     <strong>Contact</strong>
@@ -69,19 +70,3 @@
 <a href="mailto:bkokmj0327@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" align="center"/></a>
 <a href="https://linktr.ee/kangminjun"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
 
-<br/><br/>
-
-<!--
-**kang-minjune/kang-minjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
