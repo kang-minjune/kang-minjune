@@ -9,6 +9,7 @@
 <p align="right"><b>Favorite song. Listen!</b></p>
 <br/><br/><br/>
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
@@ -17,10 +18,6 @@
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-minjune&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=kang-minjune&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
-
-<br/>
-
-<img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
 
 <br>
 
@@ -69,5 +66,7 @@
 <a href="mailto:bkokmj0327@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" align="center"/></a>
 <a href="https://linktr.ee/kangminjun"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
 
-<br/><br/>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
+<br/><br/>  
+
+<img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
+
