@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
 
 <span>
-    <strong>Distribute</strong>
+    <strong>Distribute & Cloud</strong>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
 </span>
 
