@@ -40,8 +40,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
+
+##Collaboration
+<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white"/><br/>
 
 <span>
     <strong>Distribute & Cloud</strong>
