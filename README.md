@@ -47,7 +47,7 @@
 </span>
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white"/>
 
 <span>
     <strong>Distribute & Cloud</strong>
