@@ -41,7 +41,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-## Collaboration
+<span>
+    <strong>Collaboration</strong> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+</span>
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white"/><br/>
