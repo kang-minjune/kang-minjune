@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DFDFDF&height=150&section=header&text=Welcome!" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DFDFDF&height=150&section=header" />  
 
 <br>
 <a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
@@ -22,7 +22,6 @@
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
 
-
 <span>
     <strong>Technologies & Tools & Reference</strong> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
@@ -45,21 +44,21 @@
     <strong>Collaboration</strong> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 </span>
-<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white"/>
+
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white)
 
 <span>
     <strong>Distribute & Cloud</strong>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
 </span>
 
-<br/>
-
 <!-- ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff) -->
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 <br/>
+
 
 <span>
     <strong>Contact</strong>
