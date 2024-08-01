@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=80B5E3&height=150&section=header" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A6A9AA&height=150&section=header" />  
 
 <br>
 <a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
