@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F38020&height=150&section=header&fontColor=FFFFFF&text=Welcome!&fontSize=150" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F38020&height=150&section=header&fontColor=FFFFFF&text=Welcome!" />  
 
 <br>
 <a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
   <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:200px;" align="right" />
 </a>
 
-<p align="right"><b>Favorite song. Listen!</b></p>
+<p align="right"><b>Favorite Music! </b></p>
 <br/><br/><br/>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
