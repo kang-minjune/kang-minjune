@@ -44,11 +44,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white)
 
 <span>
-    <strong>Cloud</strong>
+    <strong>Cloud & Distribute</strong>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
 </span>
 
-<!-- ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff) -->
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 <br/>
