@@ -36,12 +36,14 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)<br>
+![SASS](https://img.shields.io/badge/-Sass-E6526F?style=flat-square&logo=Sass&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) <br>
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white)
+
 
 <span>
     <strong>Cloud & Distribute</strong>
@@ -49,7 +51,8 @@
 </span>
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+![AWS](https://img.shields.io/badge/-AWS-142800?style=flat-square&logo=amazon&logoColor=white)
+<!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/> -->
 
 <br/>
 
