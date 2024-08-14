@@ -1,15 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F38020&height=150&section=header&fontColor=FFFFFF&text=Welcome!" />
-
-<br>
-<a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
-  <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:200px;" align="right" />
-</a>
-
-<p align="right"><b>Favorite Music! </b></p>
-<br/><br/><br/>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=F38020&height=150&section=header&fontColor=FFFFFF&text=Welcome!" /> -->
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
@@ -80,6 +69,18 @@
 <a href="mailto:bkokmj0327@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" align="center"/></a>
 
 <br/>  
+
+<br>
+<a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
+  <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:200px;" align="right" />
+</a>
+
+<p align="right"><b>Favorite Music! </b></p>
+<br/><br/><br/>
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+
+
 
 <!-- <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" /> -->
 
