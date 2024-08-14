@@ -23,28 +23,39 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
 
 <span>
-    <strong>Technologies & Tools & Reference</strong> 
+    <strong>Technologies & Reference</strong> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 </span>
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)<br>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)<br>
-![SASS](https://img.shields.io/badge/-Sass-E6526F?style=flat-square&logo=Sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)<br>
+![TypeScript](https://img.shields.io/badge/-Typescript-3B66BC?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![SCSS](https://img.shields.io/badge/-SCSS-E6526F?style=flat-square&logo=Sass&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F40D12?style=flat-square&logo=git&logoColor=white) <br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) <br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+
+<br>
+
+<span>
+    <strong>Collaborations</strong> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+</span>
+
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6A00?style=flat-square&logo=postman&logoColor=white)
 
+<br>
+
+<!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
+<!-- ![Java](https://img.shields.io/badge/-JAVA-E34A86?style=flat-square&logo=JAVA) -->
 
 <span>
     <strong>Cloud & Distribute</strong>
