@@ -12,7 +12,7 @@
 
 <!-- ![MyOctocat](https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8) -->
 
-<img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='400' height='400' align='right'>
+<img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='400' height='450' align='right'>
 
 <span>
     <strong>Technologies & Reference</strong> 
