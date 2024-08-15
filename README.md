@@ -12,10 +12,10 @@
 
 <!-- ![MyOctocat](https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8) -->
 
-<img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='350' height='400' align='right'>
+<img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='250' height='300' align='right'>
 
 <span>
-    <strong>Technologies & Reference</strong> 
+    <strong>Technologies & Tools & References</strong> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 </span>
 
@@ -29,16 +29,7 @@
 ![Git](https://img.shields.io/badge/-Git-F40D12?style=flat-square&logo=git&logoColor=white) <br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-
-<br>
-
-<span>
-    <strong>Collaborations</strong> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-</span>
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)<br>
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white)
