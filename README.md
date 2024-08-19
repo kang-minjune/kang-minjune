@@ -34,9 +34,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-142800?style=flat-square&logo=amazon&logoColor=white)
 
-
 <br>
-
 
 <span>
     <strong>Contact</strong>
@@ -48,9 +46,16 @@
 <a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr">![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)</a>
 <a href="mailto:bkokmj0327@gmail.com">![mail](https://img.shields.io/badge/G_Mail-000000?style=flat-square&logo=gmail&logoColor=white)</a>
 
+<br/>
 
+<span>
+    <strong>MY WEB</strong>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    
+</span>
 
+<br/>
 
+<a href="https://friendly-pika-9404b3.netlify.app/">![COPYCON](https://img.shields.io/badge/COPYCON-000000?style=flat-square&logo=netlify&logoColor=white)</a>
 
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
