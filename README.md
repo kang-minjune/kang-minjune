@@ -55,7 +55,7 @@
 
 <br/>
 
-<a href="https://friendly-pika-9404b3.netlify.app/">![COPYCON](https://img.shields.io/badge/COPYCON-000000?style=flat-square&logo=netlify&logoColor=white)</a>
+<a href="https://friendly-pika-9404b3.netlify.app/">![COPYCON](https://img.shields.io/badge/COPYCON-000000?style=flat-square&logo=icon&logoColor=white)</a>
 
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
