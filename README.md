@@ -23,7 +23,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)<br>
-![TypeScript](https://img.shields.io/badge/-Typescript-3B66BC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-JAVA-E34A86?style=flat-square&logo=JAVA)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![SCSS](https://img.shields.io/badge/-SCSS-E6526F?style=flat-square&logo=Sass&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F40D12?style=flat-square&logo=git&logoColor=white) <br>
@@ -38,7 +38,7 @@
 <br>
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
-<!-- ![Java](https://img.shields.io/badge/-JAVA-E34A86?style=flat-square&logo=JAVA) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-Typescript-3B66BC?style=flat-square&logo=typescript&logoColor=white) -->
 
 <span>
     <strong>Cloud & Distribute</strong>
