@@ -9,12 +9,10 @@
 
 <br>
 
-<!-- ![MyOctocat](https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8) -->
-
 <img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='300' height='300' align='right'>
 
 <span>
-    <strong>Technologies & Tools & References</strong> 
+    <strong>Skills</strong> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 </span>
 
@@ -33,21 +31,11 @@
 ![Slack](https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6A00?style=flat-square&logo=postman&logoColor=white)
-
-<br>
-
-<!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
-<!-- ![TypeScript](https://img.shields.io/badge/-Typescript-3B66BC?style=flat-square&logo=typescript&logoColor=white) -->
-
-<span>
-    <strong>Cloud & Distribute</strong>
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    
-</span>
-
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-142800?style=flat-square&logo=amazon&logoColor=white)
 
-<br/>
+
+<br>
 
 
 <span>
@@ -59,6 +47,21 @@
 
 <a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr">![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)</a>
 <a href="mailto:bkokmj0327@gmail.com">![mail](https://img.shields.io/badge/G_Mail-000000?style=flat-square&logo=gmail&logoColor=white)</a>
+
+
+
+
+
+
+<!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-Typescript-3B66BC?style=flat-square&logo=typescript&logoColor=white) -->
+
+<!--
+<span>
+    <strong>Cloud & Distribute</strong>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    
+</span>
+-->
 
 <!--
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" style="display: flex; justify-content: flex-end;"/>
