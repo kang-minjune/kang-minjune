@@ -1,5 +1,4 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=F38020&height=150&section=header&fontColor=FFFFFF&text=Welcome!" /> -->
-
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 <p align="center">
@@ -42,7 +41,7 @@
 
 <span>
     <strong>Cloud & Distribute</strong>
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    
 </span>
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
@@ -61,18 +60,20 @@
 <a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr">![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)</a>
 <a href="mailto:bkokmj0327@gmail.com">![mail](https://img.shields.io/badge/G_Mail-000000?style=flat-square&logo=gmail&logoColor=white)</a>
 
-<br/>  
+<!--
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" style="display: flex; justify-content: flex-end;"/>
+-->
 
-<br>
+<!--
 <a href="http://www.youtube.com/watch?v=K3or5y7Zv94" style="display: inline-block; border: 2px solid #000; border-radius: 10px; overflow: hidden;" >
   <img src="http://img.youtube.com/vi/K3or5y7Zv94/0.jpg" style="width: 300px; height:200px;" align="right" />
 </a>
+-->
 
+<!--
 <p align="right"><b>Favorite Music! </b></p>
-<br/><br/><br/>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
-
+<br/><br/>
+-->
 
 
 <!-- <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" /> -->
