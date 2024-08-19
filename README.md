@@ -22,14 +22,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)<br>
+![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-JAVA-E34A86?style=flat-square&logo=JAVA)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![SCSS](https://img.shields.io/badge/-SCSS-E6526F?style=flat-square&logo=Sass&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F40D12?style=flat-square&logo=git&logoColor=white) <br>
+![Git](https://img.shields.io/badge/-Git-F40D12?style=flat-square&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)<br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-A9225C?style=flat-square&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-142800?style=flat-square&logo=Figma&logoColor=white)
@@ -58,8 +58,8 @@
 
 <br/>
 
-<a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" align="center"/></a>
-<a href="mailto:bkokmj0327@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" align="center"/></a>
+<a href="https://www.instagram.com/minzunkang?igsh=MWxreGtjZjQ4ZDFrNw%3D%3D&utm_source=qr">![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)</a>
+<a href="mailto:bkokmj0327@gmail.com">![mail](https://img.shields.io/badge/G_Mail-000000?style=flat-square&logo=gmail&logoColor=white)</a>
 
 <br/>  
 
