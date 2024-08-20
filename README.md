@@ -49,7 +49,7 @@
 <br/>
 
 <span>
-    <strong>MY WEB</strong>
+    <strong>Hosting</strong>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    
 </span>
 
