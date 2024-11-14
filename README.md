@@ -9,6 +9,9 @@
 
 <br>
 
+
+<img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='300' height='300' align='right'>
+
 <span>
     <strong>Skills</strong> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
@@ -56,8 +59,6 @@
 <a href="https://friendly-pika-9404b3.netlify.app/">![COPYCON](https://img.shields.io/badge/COPYCON-000000?style=flat-square&logo=icon&logoColor=white)</a>
 
 <br/>
-
-<img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='300' height='300' align='right'>
 
 <span>
     <h3><strong>Project</strong></h3>
