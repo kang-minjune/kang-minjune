@@ -64,29 +64,17 @@
 <!--     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />     -->
 </span>
 
-<a href="https://github.com/kang-minjune/youth-react"> 
-     대학축제 & 페스티벌 정보 공유 웹 사이트 Youth!
-</a>
+<h6><a href="https://github.com/kang-minjune/youth-react"> 대학축제 & 페스티벌 정보 공유 웹 사이트 Youth!</a></h6>
 
-<a href="https://github.com/kang-minjune/Musics-Share"> 
-     음악 플레이리스트 공유 웹 사이트 Sync
-</a>
+<h6><a href="https://github.com/kang-minjune/Musics-Share"> 음악 플레이리스트 공유 웹 사이트 Sync</a></h6>
 
-<a href="https://github.com/kang-minjune/Musics-Share"> 
-     레시피 공유 웹 사이트 SimplyCook
-</a>
+<h6><a href="https://github.com/kang-minjune/Musics-Share">레시피 공유 웹 사이트 SimplyCook</a></h6>
 
-<a href="https://github.com/kang-minjune/Univ-Project"> 
-     대학교 졸업조건 계산 웹 사이트 Conditions for graduations
-</a>
+<h6><a href="https://github.com/kang-minjune/Univ-Project">대학교 졸업조건 계산 웹 사이트 Conditions for graduations</a></h6>
 
-<a href="https://github.com/kang-minjune/JAVA-Miniproject"> 
-     JAVA 쇼핑몰 및 배송관리 프로그램 Mopang
-</a>
+<h6><a href="https://github.com/kang-minjune/JAVA-Miniproject"> JAVA 쇼핑몰 및 배송관리 프로그램 Mopang</a></h6>
 
-<a href="https://github.com/kang-minjune/COPYCON"> 
-     특수문자 & 이모티콘 공유 웹 사이트 COPYCON
-</a>
+<h6><a href="https://github.com/kang-minjune/COPYCON"> 특수문자 & 이모티콘 공유 웹 사이트 COPYCON</a></h6>
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-Typescript-3B66BC?style=flat-square&logo=typescript&logoColor=white) -->
