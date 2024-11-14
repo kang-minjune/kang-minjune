@@ -65,27 +65,27 @@
 </span>
 
 <a href="https://github.com/kang-minjune/youth-react"> 
-     <h6>대학축제 & 페스티벌 정보 공유 웹 사이트 Youth!</h6>
+     대학축제 & 페스티벌 정보 공유 웹 사이트 Youth!
 </a>
 
 <a href="https://github.com/kang-minjune/Musics-Share"> 
-     <h6>음악 플레이리스트 공유 웹 사이트 Sync</h6>
+     음악 플레이리스트 공유 웹 사이트 Sync
 </a>
 
 <a href="https://github.com/kang-minjune/Musics-Share"> 
-     <h6>레시피 공유 웹 사이트 SimplyCook</h6>
+     레시피 공유 웹 사이트 SimplyCook
 </a>
 
 <a href="https://github.com/kang-minjune/Univ-Project"> 
-     <h6>대학교 졸업조건 계산 웹 사이트 Conditions for graduations</h6>
+     대학교 졸업조건 계산 웹 사이트 Conditions for graduations
 </a>
 
 <a href="https://github.com/kang-minjune/JAVA-Miniproject"> 
-     <h6>JAVA 쇼핑몰 및 배송관리 프로그램 Mopang</h6>
+     JAVA 쇼핑몰 및 배송관리 프로그램 Mopang
 </a>
 
 <a href="https://github.com/kang-minjune/COPYCON"> 
-     <h6>특수문자 & 이모티콘 공유 웹 사이트 COPYCON</h6>
+     특수문자 & 이모티콘 공유 웹 사이트 COPYCON
 </a>
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
