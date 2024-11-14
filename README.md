@@ -9,8 +9,6 @@
 
 <br>
 
-<img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='300' height='300' align='right'>
-
 <span>
     <strong>Skills</strong> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
@@ -59,8 +57,10 @@
 
 <br/>
 
+<img src='https://github.com/user-attachments/assets/344389db-99ac-4b95-8365-351b3a0ef4b8' width='300' height='300' align='right'>
+
 <span>
-    <h3><strong>Project (Linked in icon)</strong></h3>
+    <h3><strong>Project</strong></h3>
 <!--     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />     -->
 </span>
 
