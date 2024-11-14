@@ -57,6 +57,36 @@
 
 <a href="https://friendly-pika-9404b3.netlify.app/">![COPYCON](https://img.shields.io/badge/COPYCON-000000?style=flat-square&logo=icon&logoColor=white)</a>
 
+<br/>
+
+<span>
+    <h3><strong>Project (Linked in icon)</strong></h3>
+<!--     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />     -->
+</span>
+
+<a href="https://github.com/kang-minjune/youth-react"> 
+     <h6>대학축제 & 페스티벌 정보 공유 웹 사이트 Youth!</h6>
+</a>
+
+<a href="https://github.com/kang-minjune/Musics-Share"> 
+     <h6>음악 플레이리스트 공유 웹 사이트 Sync</h6>
+</a>
+
+<a href="https://github.com/kang-minjune/Musics-Share"> 
+     <h6>레시피 공유 웹 사이트 SimplyCook</h6>
+</a>
+
+<a href="https://github.com/kang-minjune/Univ-Project"> 
+     <h6>대학교 졸업조건 계산 웹 사이트 Conditions for graduations</h6>
+</a>
+
+<a href="https://github.com/kang-minjune/JAVA-Miniproject"> 
+     <h6>JAVA 쇼핑몰 및 배송관리 프로그램 Mopang</h6>
+</a>
+
+<a href="https://github.com/kang-minjune/COPYCON"> 
+     <h6>특수문자 & 이모티콘 공유 웹 사이트 COPYCON</h6>
+</a>
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-Typescript-3B66BC?style=flat-square&logo=typescript&logoColor=white) -->
